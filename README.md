@@ -1,4 +1,15 @@
-# Meškanie vlaku Ex 605 Tatran BA-KE
-Jednoduchý program, ktorý monitoruje meškanie rýchlika z Bratislavy do Košíc pomocou [meskanievlakov.info](https://meskanievlakov.info) a upovedomí o ňom pomocou [ntfy](https://ntfy.sh).\
-\
-*Používaním porušujete pravidlá používania stránky meskanievlakov.info.*
+# tatran605-meskanie
+
+To install dependencies:
+
+```bash
+bun install
+```
+
+To run:
+
+```bash
+bun run index.ts
+```
+
+This project was created using `bun init` in bun v1.0.4. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
