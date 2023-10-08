@@ -1,4 +1,4 @@
-# Meškanie vlaku Ex 605 Tatran
+<h1>Meškanie vlaku Ex 605 Tatran</h1>
 
 Tento projekt bol vytvorený na vyriešenie špecifického problému pre mňa osobne. Aj keď dalo sa to urobiť v Pythone jednoduchšie, zvolil som si JS kvôli edukácii.\
 \
